@@ -693,7 +693,7 @@ footer:hover{
         padding: 0px 20px;
     }
     #fast-food {
-        margin-top: 1800px;
+        margin-top: 2100px;
         width: 108%;
     }
     #fast-food .upper-pic {
@@ -739,6 +739,9 @@ footer:hover{
     }
     #tasty .card{
         padding: 0px 50px;
+    }
+    #tasty .card h3 {
+        font-size: 25px;
     }
     #tasty .upper-pic img {
         width: 80%;
@@ -823,7 +826,7 @@ footer:hover{
     margin-right: 40px;
 }
 #nature #natures h6{
-    margin-right: 140px;
+    margin-right: 135px;
 }
     #menu .upper-menu {
         margin-left: 170px;
@@ -876,5 +879,8 @@ footer:hover{
     }
     #footer-logos img{
         width: 40%;
+    }
+    footer{
+        font-size: 14px;
     }
 }
