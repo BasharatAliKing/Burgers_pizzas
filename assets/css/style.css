@@ -663,19 +663,19 @@ footer:hover{
     #home .upper {
         position: absolute;
         z-index: 30;
-        margin-top: 25px;
+        margin-top: 5px;
         margin-left: 0px;
     }
     #home h1{
         font-size:22px;
     }
     #home p{
-        margin-top: 10px;
+        margin-top: 4px;
     font-size: 14px;
     margin-right: 100px;
     }
     #home .btn{
-        margin-top: 5px;
+        margin-top: -12px;
         font-size: 13px;
         padding: 10px;
     }
