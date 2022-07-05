@@ -657,6 +657,9 @@ footer:hover{
     #home{
         top: 70px;
     }
+    #home img{
+        width: 150%;
+    }
     #home .upper {
         position: absolute;
         z-index: 30;
@@ -664,16 +667,119 @@ footer:hover{
         margin-left: 0px;
     }
     #home h1{
-        font-size: 33px;
+        font-size:22px;
+    }
+    #home p{
+        margin-top: 10px;
+    font-size: 14px;
+    margin-right: 100px;
     }
     #home .btn{
-        font-size: 15px;
+        margin-top: 5px;
+        font-size: 13px;
         padding: 10px;
     }
-    #nature {
-        width: 100%;
-        margin-top: 6000px;
+    #choose h6 {
+        margin: 0px 95px;
     }
+    #choose {
+        margin-top: 420px;
+    }
+    #choose h1{
+        font-size: 25px;
+    }
+    #choose .card {
+        border: none;
+        padding: 0px 80px;
+    }
+    #fast-food {
+        margin-top: 1800px;
+        width: 108%;
+    }
+    #fast-food .upper-pic {
+        margin-left: 195px;
+        margin-top: 110px;
+    }
+    #fast-food .upper-pic img {
+        width: 120%;
+    }
+    #fast-food img{
+        width: 80%;
+    }
+    #fast-food h1 {
+        font-size: 30px;
+    }
+    #fast-food p {
+        color: #6e6e6e;
+        margin-right: 30px;
+        font-size: 14px;
+    }
+    #fast-food .btn {
+        margin-top: 40px;
+        font-size: 14px;
+        padding: 15px;
+    }
+    #tasty {
+        margin-top: 3000px;
+    }
+    #tasty h6 {
+        margin: 0px 110px;
+    }
+    #tasty h1{
+        font-size: 30px;
+    }
+    #tasty .card{
+        padding: 0px 50px;
+    }
+    #nature {
+        height: 150%;
+        width: 100%;
+        margin-top: 5300px;
+    }
+    #nature h6 {
+       
+        margin-right: 135px;
+        margin-top: -30px;
+    }
+    #nature .btn {
+        font-size: 14px;
+       
+    }
+    #nature h6 {
+        margin-right: 35px;
+    }
+   #nature h4{
+    font-size: 22px;
+   }
+   #menu .col-md-4 img {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+#menu .pic-upper {
+    margin-left: 20px;
+}
+#menu .pic-upper h1 {
+    font-size: 30px;
+}
+#menu-offers .col-md-6 {
+    margin-top: 0px;
+}
+#menu-offers #side {
+    padding: 0px;
+    margin: 40px 20px;
+}
+#nature .col-2 img {
+    width: 200%;
+}
+#menu-offers h3 {
+    font-size: 18px;
+}
+#menu-offers .borders {
+    padding: 10px;
+}
+#nature .borders .btn {
+    margin-top: -45px;
+}
     #menu .upper-menu {
         margin-left: 170px;
         margin-top: 70px;
@@ -683,19 +789,5 @@ footer:hover{
     }
     #latest {
         margin-top: 550px;
-    }
-    #fast-food {
-        margin-top: 2800px;
-        width: 108%;
-    }
-    #fast-food img{
-        width: 80%;
-    }
-    #fast-food .upper-pic {
-        margin-left: 255px;
-        margin-top: 155px;
-    }
-    #tasty {
-        margin-top: 4400px;
     }
 }
