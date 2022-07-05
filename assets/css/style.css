@@ -649,6 +649,27 @@ footer:hover{
     }
 }
 @media(max-width:596px){
+    #header{
+        position: absolute;
+        top: -20px;
+        background-color: #f8e4c4;
+    }
+    #home{
+        top: 70px;
+    }
+    #home .upper {
+        position: absolute;
+        z-index: 30;
+        margin-top: 25px;
+        margin-left: 0px;
+    }
+    #home h1{
+        font-size: 33px;
+    }
+    #home .btn{
+        font-size: 15px;
+        padding: 10px;
+    }
     #nature {
         width: 100%;
         margin-top: 6000px;
