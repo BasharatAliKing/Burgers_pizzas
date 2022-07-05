@@ -637,6 +637,7 @@ footer:hover{
     }
     #nature .btn {
         margin-top: 20px;
+    }
     #nature #natures {
         padding: 30px 0px;
     }
@@ -645,5 +646,35 @@ footer:hover{
     }
     #menu img{
         width: 100%;
+    }
+}
+@media(max-width:596px){
+    #nature {
+        width: 100%;
+        margin-top: 6000px;
+    }
+    #menu .upper-menu {
+        margin-left: 170px;
+        margin-top: 70px;
+    }
+    #menu .col-md-4 img {
+        margin-left: 0px;
+    }
+    #latest {
+        margin-top: 550px;
+    }
+    #fast-food {
+        margin-top: 2800px;
+        width: 108%;
+    }
+    #fast-food img{
+        width: 80%;
+    }
+    #fast-food .upper-pic {
+        margin-left: 255px;
+        margin-top: 155px;
+    }
+    #tasty {
+        margin-top: 4400px;
     }
 }
