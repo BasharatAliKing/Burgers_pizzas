@@ -835,10 +835,14 @@ footer:hover{
     #book-now #table {
         margin-top: 100px;
     }
+  
+    #nature img {
+        width: 100%;
+    }
     #footer-logos {
         padding-top: 410px;
     }
-    #nature img {
+    #footer-logos img{
         width: 40%;
     }
 }
