@@ -848,6 +848,7 @@ footer:hover{
 
     #book-now {
         margin-top: -110px;
+        height: 100%;
     }
     #book-now .container-fluid {
         padding: 10px;
