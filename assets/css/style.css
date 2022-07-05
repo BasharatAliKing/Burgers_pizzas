@@ -812,9 +812,18 @@ footer:hover{
         margin-left: 0px;
     }
     #latest {
-        margin-top: 100px;
-        text-align: start;
+        margin-top: 0px;
+        text-align: center;
     }
+    #latest h6{
+      text-align: center;
+      margin: 0px;
+      margin: 0px 80px;
+      }
+    #latest .col-md-4{
+        margin: 0px 30px;
+    }
+
     #book-now {
         margin-top: -110px;
     }
