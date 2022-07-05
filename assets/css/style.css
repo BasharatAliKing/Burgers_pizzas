@@ -785,7 +785,7 @@ footer:hover{
     
 }
 #mobile {
-    height: 100%;
+    height: 80%;
 }
 #mobile .col-md-6{
     margin-top: 100px;
@@ -818,7 +818,7 @@ footer:hover{
     #latest h6{
       text-align: center;
       margin: 0px;
-      margin: 0px 80px;
+      margin: 0px 70px;
       }
     #latest .col-md-4{
         margin: 0px 30px;
