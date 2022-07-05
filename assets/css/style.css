@@ -690,7 +690,7 @@ footer:hover{
     }
     #choose .card {
         border: none;
-        padding: 0px 80px;
+        padding: 0px 20px;
     }
     #fast-food {
         margin-top: 1800px;
@@ -701,8 +701,17 @@ footer:hover{
         margin-top: 110px;
     }
     #fast-food .upper-pic img {
-        width: 120%;
+        width: 100%;
     }
+    #fast-food h4 {
+        font-size: 16px;
+        margin-left: 18px;
+        margin-top: -80px;
+    }
+    #fast-food h6 {
+        margin-left: 0px;
+    }
+
     #fast-food img{
         width: 80%;
     }
@@ -730,6 +739,12 @@ footer:hover{
     }
     #tasty .card{
         padding: 0px 50px;
+    }
+    #tasty .upper-pic img {
+        width: 80%;
+    }
+    #tasty h5 {
+        margin-top: -60px;
     }
     #nature {
         height: 150%;
@@ -804,13 +819,20 @@ footer:hover{
 #nature h6 {
     margin-right: 150px;
 }
+#nature .upper-menu h6{
+    margin-right: 40px;
+}
+#nature #natures h6{
+    margin-right: 140px;
+}
     #menu .upper-menu {
         margin-left: 170px;
-        margin-top: 70px;
+        margin-top: 50px;
     }
     #menu .col-md-4 img {
         margin-left: 0px;
     }
+    
     #latest {
         margin-top: 0px;
         text-align: center;
@@ -821,7 +843,7 @@ footer:hover{
       margin: 0px 70px;
       }
     #latest .col-md-4{
-        margin: 0px 30px;
+        margin: 0px 20px;
     }
 
     #book-now {
